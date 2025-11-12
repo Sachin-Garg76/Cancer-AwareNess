@@ -83,3 +83,25 @@
 .Heroparatext{
     font-size: 15px;
 }
+
+/* Testimonal  */
+#About{
+    text-align: center;
+    color: white;
+}
+#Testiomonals{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.entities{
+    display: flex;
+    width: 350px;
+}
+.testimonalimg{
+    height: 90px;
+    margin: 5px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
